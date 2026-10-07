@@ -1,128 +1,128 @@
-[submodule "benchmarks/201-sys-bench-nvidia-cuda-stack-validation-ubu2404"]
-	path = benchmarks/201-sys-bench-nvidia-cuda-stack-validation-ubu2404
+[submodule "201-sys-bench-nvidia-cuda-stack-validation-ubu2404"]
+	path = 201-sys-bench-nvidia-cuda-stack-validation-ubu2404
 	url = ../201-sys-bench-nvidia-cuda-stack-validation-ubu2404.git
 	branch = main
-[submodule "benchmarks/202-sys-bench-nvidia-gpu-health-validation-ubu2404"]
-	path = benchmarks/202-sys-bench-nvidia-gpu-health-validation-ubu2404
+[submodule "202-sys-bench-nvidia-gpu-health-validation-ubu2404"]
+	path = 202-sys-bench-nvidia-gpu-health-validation-ubu2404
 	url = ../202-sys-bench-nvidia-gpu-health-validation-ubu2404.git
 	branch = main
-[submodule "benchmarks/203-sys-bench-nvidia-system-stress-stability-ubu2404"]
-	path = benchmarks/203-sys-bench-nvidia-system-stress-stability-ubu2404
+[submodule "203-sys-bench-nvidia-system-stress-stability-ubu2404"]
+	path = 203-sys-bench-nvidia-system-stress-stability-ubu2404
 	url = ../203-sys-bench-nvidia-system-stress-stability-ubu2404.git
 	branch = main
-[submodule "benchmarks/204-gpu-bench-nvidia-sdc-ecc-integrity-ubu2404"]
-	path = benchmarks/204-gpu-bench-nvidia-sdc-ecc-integrity-ubu2404
+[submodule "204-gpu-bench-nvidia-sdc-ecc-integrity-ubu2404"]
+	path = 204-gpu-bench-nvidia-sdc-ecc-integrity-ubu2404
 	url = ../204-gpu-bench-nvidia-sdc-ecc-integrity-ubu2404.git
 	branch = main
-[submodule "benchmarks/205-gpu-bench-nvidia-pytorch-tensor-correctness-ubu2404"]
-	path = benchmarks/205-gpu-bench-nvidia-pytorch-tensor-correctness-ubu2404
+[submodule "205-gpu-bench-nvidia-pytorch-tensor-correctness-ubu2404"]
+	path = 205-gpu-bench-nvidia-pytorch-tensor-correctness-ubu2404
 	url = ../205-gpu-bench-nvidia-pytorch-tensor-correctness-ubu2404.git
 	branch = main
-[submodule "benchmarks/206-sys-bench-nvidia-fio-nvme-sweep-ubu2404"]
-	path = benchmarks/206-sys-bench-nvidia-fio-nvme-sweep-ubu2404
+[submodule "206-sys-bench-nvidia-fio-nvme-sweep-ubu2404"]
+	path = 206-sys-bench-nvidia-fio-nvme-sweep-ubu2404
 	url = ../206-sys-bench-nvidia-fio-nvme-sweep-ubu2404.git
 	branch = main
-[submodule "benchmarks/207-sys-bench-nvidia-stream-ddr5-bandwidth-ubu2404"]
-	path = benchmarks/207-sys-bench-nvidia-stream-ddr5-bandwidth-ubu2404
+[submodule "207-sys-bench-nvidia-stream-ddr5-bandwidth-ubu2404"]
+	path = 207-sys-bench-nvidia-stream-ddr5-bandwidth-ubu2404
 	url = ../207-sys-bench-nvidia-stream-ddr5-bandwidth-ubu2404.git
 	branch = main
-[submodule "benchmarks/208-sys-bench-nvidia-iperf3-network-performance-ubu2404"]
-	path = benchmarks/208-sys-bench-nvidia-iperf3-network-performance-ubu2404
+[submodule "208-sys-bench-nvidia-iperf3-network-performance-ubu2404"]
+	path = 208-sys-bench-nvidia-iperf3-network-performance-ubu2404
 	url = ../208-sys-bench-nvidia-iperf3-network-performance-ubu2404.git
 	branch = main
-[submodule "benchmarks/209-sys-bench-nvidia-multichase-numa-latency-ubu2404"]
-	path = benchmarks/209-sys-bench-nvidia-multichase-numa-latency-ubu2404
+[submodule "209-sys-bench-nvidia-multichase-numa-latency-ubu2404"]
+	path = 209-sys-bench-nvidia-multichase-numa-latency-ubu2404
 	url = ../209-sys-bench-nvidia-multichase-numa-latency-ubu2404.git
 	branch = main
-[submodule "benchmarks/210-sys-bench-nvidia-numa-cache-performance-ubu2404"]
-	path = benchmarks/210-sys-bench-nvidia-numa-cache-performance-ubu2404
+[submodule "210-sys-bench-nvidia-numa-cache-performance-ubu2404"]
+	path = 210-sys-bench-nvidia-numa-cache-performance-ubu2404
 	url = ../210-sys-bench-nvidia-numa-cache-performance-ubu2404.git
 	branch = main
-[submodule "benchmarks/211-sys-bench-nvidia-linux-perf-pmu-ubu2404"]
-	path = benchmarks/211-sys-bench-nvidia-linux-perf-pmu-ubu2404
+[submodule "211-sys-bench-nvidia-linux-perf-pmu-ubu2404"]
+	path = 211-sys-bench-nvidia-linux-perf-pmu-ubu2404
 	url = ../211-sys-bench-nvidia-linux-perf-pmu-ubu2404.git
 	branch = main
-[submodule "benchmarks/212-sys-bench-nvidia-lmbench-microbench-suite-ubu2404"]
-	path = benchmarks/212-sys-bench-nvidia-lmbench-microbench-suite-ubu2404
+[submodule "212-sys-bench-nvidia-lmbench-microbench-suite-ubu2404"]
+	path = 212-sys-bench-nvidia-lmbench-microbench-suite-ubu2404
 	url = ../212-sys-bench-nvidia-lmbench-microbench-suite-ubu2404.git
 	branch = main
-[submodule "benchmarks/213-sys-bench-nvidia-gups-random-memory-ubu2404"]
-	path = benchmarks/213-sys-bench-nvidia-gups-random-memory-ubu2404
+[submodule "213-sys-bench-nvidia-gups-random-memory-ubu2404"]
+	path = 213-sys-bench-nvidia-gups-random-memory-ubu2404
 	url = ../213-sys-bench-nvidia-gups-random-memory-ubu2404.git
 	branch = main
-[submodule "benchmarks/214-gpu-bench-nvidia-memcpy-transfer-bandwidth-ubu2404"]
-	path = benchmarks/214-gpu-bench-nvidia-memcpy-transfer-bandwidth-ubu2404
+[submodule "214-gpu-bench-nvidia-memcpy-transfer-bandwidth-ubu2404"]
+	path = 214-gpu-bench-nvidia-memcpy-transfer-bandwidth-ubu2404
 	url = ../214-gpu-bench-nvidia-memcpy-transfer-bandwidth-ubu2404.git
 	branch = main
-[submodule "benchmarks/215-gpu-bench-nvidia-babelstream-hbm-bandwidth-ubu2404"]
-	path = benchmarks/215-gpu-bench-nvidia-babelstream-hbm-bandwidth-ubu2404
+[submodule "215-gpu-bench-nvidia-babelstream-hbm-bandwidth-ubu2404"]
+	path = 215-gpu-bench-nvidia-babelstream-hbm-bandwidth-ubu2404
 	url = ../215-gpu-bench-nvidia-babelstream-hbm-bandwidth-ubu2404.git
 	branch = main
-[submodule "benchmarks/216-gpu-bench-nvidia-nccl-bandwidth-test-ubu2404"]
-	path = benchmarks/216-gpu-bench-nvidia-nccl-bandwidth-test-ubu2404
+[submodule "216-gpu-bench-nvidia-nccl-bandwidth-test-ubu2404"]
+	path = 216-gpu-bench-nvidia-nccl-bandwidth-test-ubu2404
 	url = ../216-gpu-bench-nvidia-nccl-bandwidth-test-ubu2404.git
 	branch = main
-[submodule "benchmarks/217-gpu-bench-nvidia-gemm-cublas-micro-ubu2404"]
-	path = benchmarks/217-gpu-bench-nvidia-gemm-cublas-micro-ubu2404
+[submodule "217-gpu-bench-nvidia-gemm-cublas-micro-ubu2404"]
+	path = 217-gpu-bench-nvidia-gemm-cublas-micro-ubu2404
 	url = ../217-gpu-bench-nvidia-gemm-cublas-micro-ubu2404.git
 	branch = main
-[submodule "benchmarks/218-gpu-bench-nvidia-cudnn-convolution-micro-ubu2404"]
-	path = benchmarks/218-gpu-bench-nvidia-cudnn-convolution-micro-ubu2404
+[submodule "218-gpu-bench-nvidia-cudnn-convolution-micro-ubu2404"]
+	path = 218-gpu-bench-nvidia-cudnn-convolution-micro-ubu2404
 	url = ../218-gpu-bench-nvidia-cudnn-convolution-micro-ubu2404.git
 	branch = main
-[submodule "benchmarks/219-gpu-bench-nvidia-torch-micro-suite-ubu2404"]
-	path = benchmarks/219-gpu-bench-nvidia-torch-micro-suite-ubu2404
+[submodule "219-gpu-bench-nvidia-torch-micro-suite-ubu2404"]
+	path = 219-gpu-bench-nvidia-torch-micro-suite-ubu2404
 	url = ../219-gpu-bench-nvidia-torch-micro-suite-ubu2404.git
 	branch = main
-[submodule "benchmarks/220-gpu-bench-nvidia-linpack-hpl-fp64-ubu2404"]
-	path = benchmarks/220-gpu-bench-nvidia-linpack-hpl-fp64-ubu2404
+[submodule "220-gpu-bench-nvidia-linpack-hpl-fp64-ubu2404"]
+	path = 220-gpu-bench-nvidia-linpack-hpl-fp64-ubu2404
 	url = ../220-gpu-bench-nvidia-linpack-hpl-fp64-ubu2404.git
 	branch = main
-[submodule "benchmarks/221-gpu-bench-nvidia-resnet50-pytorch-training-ubu2404"]
-	path = benchmarks/221-gpu-bench-nvidia-resnet50-pytorch-training-ubu2404
+[submodule "221-gpu-bench-nvidia-resnet50-pytorch-training-ubu2404"]
+	path = 221-gpu-bench-nvidia-resnet50-pytorch-training-ubu2404
 	url = ../221-gpu-bench-nvidia-resnet50-pytorch-training-ubu2404.git
 	branch = main
-[submodule "benchmarks/222-gpu-bench-nvidia-resnet50-pytorch-inference-ubu2404"]
-	path = benchmarks/222-gpu-bench-nvidia-resnet50-pytorch-inference-ubu2404
+[submodule "222-gpu-bench-nvidia-resnet50-pytorch-inference-ubu2404"]
+	path = 222-gpu-bench-nvidia-resnet50-pytorch-inference-ubu2404
 	url = ../222-gpu-bench-nvidia-resnet50-pytorch-inference-ubu2404.git
 	branch = main
-[submodule "benchmarks/223-gpu-bench-nvidia-bert-base-inference-ubu2404"]
-	path = benchmarks/223-gpu-bench-nvidia-bert-base-inference-ubu2404
+[submodule "223-gpu-bench-nvidia-bert-base-inference-ubu2404"]
+	path = 223-gpu-bench-nvidia-bert-base-inference-ubu2404
 	url = ../223-gpu-bench-nvidia-bert-base-inference-ubu2404.git
 	branch = main
-[submodule "benchmarks/224-gpu-bench-nvidia-sdxl-diffusers-latency-ubu2404"]
-	path = benchmarks/224-gpu-bench-nvidia-sdxl-diffusers-latency-ubu2404
+[submodule "224-gpu-bench-nvidia-sdxl-diffusers-latency-ubu2404"]
+	path = 224-gpu-bench-nvidia-sdxl-diffusers-latency-ubu2404
 	url = ../224-gpu-bench-nvidia-sdxl-diffusers-latency-ubu2404.git
 	branch = main
-[submodule "benchmarks/225-gpu-bench-nvidia-distilbert-hf-classification-ubu2404"]
-	path = benchmarks/225-gpu-bench-nvidia-distilbert-hf-classification-ubu2404
+[submodule "225-gpu-bench-nvidia-distilbert-hf-classification-ubu2404"]
+	path = 225-gpu-bench-nvidia-distilbert-hf-classification-ubu2404
 	url = ../225-gpu-bench-nvidia-distilbert-hf-classification-ubu2404.git
 	branch = main
-[submodule "benchmarks/226-gpu-bench-nvidia-jax-xla-forwardpass-ubu2404"]
-	path = benchmarks/226-gpu-bench-nvidia-jax-xla-forwardpass-ubu2404
+[submodule "226-gpu-bench-nvidia-jax-xla-forwardpass-ubu2404"]
+	path = 226-gpu-bench-nvidia-jax-xla-forwardpass-ubu2404
 	url = ../226-gpu-bench-nvidia-jax-xla-forwardpass-ubu2404.git
 	branch = main
-[submodule "benchmarks/227-gpu-bench-nvidia-vllm-kvcache-stress-ubu2404"]
-	path = benchmarks/227-gpu-bench-nvidia-vllm-kvcache-stress-ubu2404
+[submodule "227-gpu-bench-nvidia-vllm-kvcache-stress-ubu2404"]
+	path = 227-gpu-bench-nvidia-vllm-kvcache-stress-ubu2404
 	url = ../227-gpu-bench-nvidia-vllm-kvcache-stress-ubu2404.git
 	branch = main
-[submodule "benchmarks/228-gpu-bench-nvidia-vllm-throughput-latency-ubu2404"]
-	path = benchmarks/228-gpu-bench-nvidia-vllm-throughput-latency-ubu2404
+[submodule "228-gpu-bench-nvidia-vllm-throughput-latency-ubu2404"]
+	path = 228-gpu-bench-nvidia-vllm-throughput-latency-ubu2404
 	url = ../228-gpu-bench-nvidia-vllm-throughput-latency-ubu2404.git
 	branch = main
-[submodule "benchmarks/229-gpu-bench-nvidia-vllm-mistral-cuda-ubu2404"]
-	path = benchmarks/229-gpu-bench-nvidia-vllm-mistral-cuda-ubu2404
+[submodule "229-gpu-bench-nvidia-vllm-mistral-cuda-ubu2404"]
+	path = 229-gpu-bench-nvidia-vllm-mistral-cuda-ubu2404
 	url = ../229-gpu-bench-nvidia-vllm-mistral-cuda-ubu2404.git
 	branch = main
-[submodule "benchmarks/230-gpu-bench-nvidia-sglang-prompt-response-ubu2404"]
-	path = benchmarks/230-gpu-bench-nvidia-sglang-prompt-response-ubu2404
+[submodule "230-gpu-bench-nvidia-sglang-prompt-response-ubu2404"]
+	path = 230-gpu-bench-nvidia-sglang-prompt-response-ubu2404
 	url = ../230-gpu-bench-nvidia-sglang-prompt-response-ubu2404.git
 	branch = main
-[submodule "benchmarks/231-gpu-bench-nvidia-sglang-serving-latency-ubu2404"]
-	path = benchmarks/231-gpu-bench-nvidia-sglang-serving-latency-ubu2404
+[submodule "231-gpu-bench-nvidia-sglang-serving-latency-ubu2404"]
+	path = 231-gpu-bench-nvidia-sglang-serving-latency-ubu2404
 	url = ../231-gpu-bench-nvidia-sglang-serving-latency-ubu2404.git
 	branch = main
-[submodule "benchmarks/232-gpu-bench-nvidia-rag-faiss-end2end-ubu2404"]
-	path = benchmarks/232-gpu-bench-nvidia-rag-faiss-end2end-ubu2404
+[submodule "232-gpu-bench-nvidia-rag-faiss-end2end-ubu2404"]
+	path = 232-gpu-bench-nvidia-rag-faiss-end2end-ubu2404
 	url = ../232-gpu-bench-nvidia-rag-faiss-end2end-ubu2404.git
 	branch = main
