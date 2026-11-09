@@ -1,7 +1,7 @@
 # NVIDIA CUDA - Ubuntu 24.04 benchmark bundle
 
 32 system and GPU benchmarks for NVIDIA GPU machines running Ubuntu 24.04,
-each pinned to its tested v1.0.32 release. Other platforms have their own bundle:
+each pinned to its tested v1.0.33 release. Other platforms have their own bundle:
 [AMD 24.04](https://github.com/garys-gpu-benchmarks/bundle-amd-ubuntu-2404) ·
 [AMD 26.04](https://github.com/garys-gpu-benchmarks/bundle-amd-ubuntu-2604) ·
 [NVIDIA 26.04](https://github.com/garys-gpu-benchmarks/bundle-nvidia-ubuntu-2604)
